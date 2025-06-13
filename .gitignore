@@ -1,0 +1,16 @@
+# Ignore virtual environment directories
+# Python virtual environments
+venv/
+# Python virtual environment directories
+.env/
+# Ignore Python cache files
+__pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python bytecode files
+*.pyc
+# Ignore log files
+*.log
+#Ignore files size greater than 20MB
+*.log[0-9]*
+if filesize > 20MB
