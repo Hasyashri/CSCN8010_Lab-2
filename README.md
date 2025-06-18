@@ -24,10 +24,10 @@ This lab focuses on multivariate regression modeling using the **Diabetes datase
 
 ---
 
-- lab2multivariate.ipynb # Main Jupyter Notebook (code + markdown + plots)
-- requirements.txt # Python dependencies (created using pip freeze)
-- README.md # This documentation file
-- .gitignore # Ignores unnecessary and system files
+- lab2multivariate.ipynb :- Main Jupyter Notebook (code + markdown + plots)
+- requirements.txt :- Python dependencies (created using pip freeze)
+- README.md :- This documentation file
+- .gitignore :- Ignores unnecessary and system files
 
 ## Instructions
 
